@@ -21,4 +21,4 @@ deploy:
   api_key: $HEROKU
   on:
     branch: master
-  # app: ecosystem-nlr, por defecto, nombre del artefacto en caso de que el nombre este ocupado
+  app: ecosystem-nlr #, por defecto, nombre del artefacto en caso de que el nombre este ocupado
