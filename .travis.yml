@@ -15,10 +15,10 @@ script:
   - mvn org.jacoco:jacoco-maven-plugin:prepare-agent verify
   #Sonarcluod (La variable $SONAR esta entre las variables de entorno de travis, la api key la obtenemos de sonar
   - mvn verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=nelson-lpz-soft -Dsonar.login=$SONAR
-  #-Dsonar.login=$SONAR
-#deploy:
-#  provider: heroku
-#  api_key: $HEROKU
-#  on:
-#    branch: master
-
+#Deploy https://ecosystem-nlp.heroku.com/api
+deploy:
+  provider: heroku
+  api_key: $HEROKU
+  on:
+    branch: master
+  # app: ecosystem-nlr, por defecto, nombre del artefacto en caso de que el nombre este ocupado

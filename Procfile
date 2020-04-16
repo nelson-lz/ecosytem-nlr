@@ -1,0 +1,1 @@
+java -Dserver.port=$PORT $JAVA-OPTS -jar target/ecosystem-nlr-1.0.0-SNAPSHOT.jar

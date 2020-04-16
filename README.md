@@ -13,7 +13,7 @@
 ### Estado del código
 [![Build Status](https://travis-ci.com/nelson-lz/ecosytem-nlr.svg?branch=develop)](https://travis-ci.com/nelson-lz/ecosytem-nlr)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=py.nelson.lz%3Aecosystem-nlr&metric=alert_status)](https://sonarcloud.io/dashboard?id=py.nelson.lz%3Aecosystem-nlr)
-[![BCH compliance](https://bettercodehub.com/edge/badge/miw-upm/iwvg-ecosystem?branch=master)](https://bettercodehub.com/results/miw-upm/iwvg-ecosystem)
+[![BCH compliance](https://bettercodehub.com/edge/badge/nelson-lz/ecosytem-nlr?branch=develop)](https://bettercodehub.com/)
 [![Heroku broken](https://iwvg-devops.herokuapp.com/system/version-badge)](https://iwvg-devops.herokuapp.com/swagger-ui.html)
 
 ### Tecnologías necesarias
