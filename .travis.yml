@@ -13,7 +13,8 @@ notifications:
 script:
   #Test unitario y de integración con cobertura (jacoco)
   - mvn org.jacoco:jacoco-maven-plugin:prepare-agent verify
-  #- mvn verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=miw-upm-github
+  #Sonarcluod (La variable $SONAR esta entre las variables de entorno de travis, la api key la obtenemos de sonar
+  - mvn verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=nelson-lpz-soft -Dsonar.login=$SONAR
   #-Dsonar.login=$SONAR
 #deploy:
 #  provider: heroku
