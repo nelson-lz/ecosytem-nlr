@@ -24,6 +24,7 @@ package py.nelson.lz.iwvg_devops.practica;
  * medios. Invertir fraccion
  */
 //se ha agregado una nueva caracteristica xD
+    //Segunda mejora a la clase xD
 public class Fraction {
 
     private int numerator;
