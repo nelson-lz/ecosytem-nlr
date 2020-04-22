@@ -23,6 +23,7 @@ package py.nelson.lz.iwvg_devops.practica;
  * La división de dos fracciones es otra fracción que tiene: Por numerador el producto de los extremos. Por denominador el producto de los
  * medios. Invertir fraccion
  */
+//se ha agregado una nueva caracteristica xD
 public class Fraction {
 
     private int numerator;
