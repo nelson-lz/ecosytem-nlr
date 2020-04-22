@@ -25,6 +25,7 @@ package py.nelson.lz.iwvg_devops.practica;
  */
 //se ha agregado una nueva caracteristica xD
     //Segunda mejora a la clase xD
+    // tercera mejora a fraction
 public class Fraction {
 
     private int numerator;
