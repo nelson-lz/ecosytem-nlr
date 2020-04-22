@@ -2,7 +2,8 @@ package py.nelson.lz.iwvg_devops.practica;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//Se agrego una mejora xxx
+// seagrego la segunda mejora a esta clase
 public class User {
     private String id;
 

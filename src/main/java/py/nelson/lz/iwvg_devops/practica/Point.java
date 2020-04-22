@@ -1,5 +1,7 @@
 package py.nelson.lz.iwvg_devops.practica;
-
+//se ha agregado una mejora x
+//Ahora si se agregeo una mejora a Point
+//se ha agregado otra mejora xxxyyy
 public class Point {
     private int x;
     private int y;
