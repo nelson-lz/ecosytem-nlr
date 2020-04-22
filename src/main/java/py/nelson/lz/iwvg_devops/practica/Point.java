@@ -1,5 +1,5 @@
 package py.nelson.lz.iwvg_devops.practica;
-
+//se ha agregado una mejora x
 public class Point {
     private int x;
     private int y;
