@@ -2,7 +2,7 @@ package py.nelson.lz.iwvg_devops.practica;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//se ha agregado una mejora xxx
 public class DecimalCollection {
     private List<Double> collection;
 
