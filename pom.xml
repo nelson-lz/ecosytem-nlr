@@ -66,7 +66,7 @@
 
     <dependencies>
         <!-- Test -->
-
+        <!--
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
@@ -76,7 +76,7 @@
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
             <scope>test</scope>
-        </dependency>
+        </dependency> -->
         <!-- Web -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
