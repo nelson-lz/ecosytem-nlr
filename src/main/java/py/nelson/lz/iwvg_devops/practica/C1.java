@@ -7,5 +7,5 @@ public class C1 {
     }
     public String m2() { return "C1:m2"; }
     public String m3() { return "C1:m3"; }
-    public String m4() { return "C1:m4 xD"; }
+    public String m4() { return "C1:m4"; }
 }
